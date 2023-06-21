@@ -1,3 +1,9 @@
+
+![Screenshot 2023-06-22 at 1 19 23 AM](https://github.com/sftSalman/NeuroART/assets/33355278/64da4a91-a098-44e3-99a0-e2570d5816db)
+
+![Screenshot 2023-06-22 at 1 19 01 AM](https://github.com/sftSalman/NeuroART/assets/33355278/ef9e1a03-5d36-403b-ba7a-ed86cee748d4)
+
+
 # Paint Neural Style Transformation
 Paint Neural Style Transformation is a Python-based application that applies neural style transfer to images, giving them an artistic, painted look. This project uses deep learning techniques to extract the style from one image and apply it to another, creating visually appealing and unique results.
 
