@@ -1,4 +1,6 @@
-# NeuroArt Paint Neural Style Transformation
+# NeuroA
+![nrmerged](https://github.com/sftSalman/NeuroART/assets/33355278/9903e68f-2a5f-4a62-944f-c94e987c69f3)
+rt Paint Neural Style Transformation
 ![Screenshot 2023-06-22 at 1 19 23 AM](https://github.com/sftSalman/NeuroART/assets/33355278/64da4a91-a098-44e3-99a0-e2570d5816db)
 ![Screenshot 2023-06-22 at 1 20 51 AM](https://github.com/sftSalman/NeuroART/assets/33355278/fe23f211-d8f3-4beb-ac8f-3a2a19be8d99)
 
